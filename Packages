@@ -1,12 +1,17 @@
 Package: com.iannedev.songskip
-Name: songskip
-Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
-Description: volume
 Maintainer: ianne
-Author: ianne
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/com.iannedev.songskip.deb
+Size: 7414
+MD5sum: 7ae4e6c03fb9e1cc912aefef32f61c1b
+SHA1: 16223f605aa9393e8ba3e41f6060331f8cd9ccd5
+SHA256: 2579e72f301637e6459338c434ab8a9b484f2c7f89ef04a35a719bf90bcc8c25
 Section: Tweaks
+Description: volume
+Author: ianne
+Depiction: https://marcoianne.github.io/depictions/?p=com.iannedev.songskip
+Name: songskip
 
-
-Depiction: https://MarcoIanne.github.io/tree/master/depictions/?p=com.iannedev.songskip
