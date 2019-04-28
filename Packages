@@ -1,18 +1,19 @@
 Package: com.iannedev.littlexfixed
-Version: 1.0
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iannedev
 Installed-Size: 244
 Depends: mobilesubstrate
 Conflicts: com.binksalex.fluidify, com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Filename: ./debs/com.iannedev.littlexfixed.deb
-Size: 34142
-MD5sum: 3fcca45d1682ba0aee4005b01c9b729a
-SHA1: 6c55d4f0e72a309412343e6c08528cea6505c86e
-SHA256: 071a9bef7c8b46f3f0ca35690c4561141f23f2ea65379d5e9cec34cae884fdfe
+Size: 34186
+MD5sum: 3c4e9dda8cf2c28bc4b6f70398261c72
+SHA1: 1c9f8ba54964e1da5446b646b60ea797ba1dd19f
+SHA256: f6c741e677504c4b280e91d1d403841b63adaab0c4abb8812e362b4dca9847e9
 Section: Tweaks
-Description: LittleX.
+Description: fluid gestures for all pre-X devices.
 Author: iannedev
+Depiction: https://marcoianne.github.io/depictions/?p=com.iannedev.littlexfixed
 Name: LittleXfixed
 
 Package: com.iannedev.songskip
