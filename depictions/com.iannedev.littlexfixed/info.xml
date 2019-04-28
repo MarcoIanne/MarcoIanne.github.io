@@ -1,0 +1,24 @@
+<package>
+	<id>com.iannedev.littlexfixed</id>
+	<name>Little X fixed</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Just little x</shortDescription>
+	<descriptionlist>
+		<description>Just little x patched to work on ios 12 etc</description>
+	</descriptionlist>
+	<links>
+		<link>
+			<name>my twitter</name>
+			<url>https://twitter.com/Marcolannello</url>
+			<iconclass>fa fa-Twitter</iconclass>
+		</link>
+	</links>
+</package>
